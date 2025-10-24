@@ -33,9 +33,9 @@ About me
 
 <h2>📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=msaination&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msaination&theme=radical" alt="GitHub Streak" />
 </p>
 
 <h2>📫 Let's Connect</h2>
